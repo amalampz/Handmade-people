@@ -6,3 +6,8 @@ this project focuses on creating a website to sell handicraft items using UPI pa
 current status: just started with the repository downloding WAMP server in the remote repo to get started.
 
 Refrel Link : https://www.youtube.com/watch?v=NXAHkqiIepc
+
+
+this is how you can edit .........
+similarly any file .....
+
